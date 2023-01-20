@@ -1,0 +1,16 @@
+.footer {
+    justify-content: center;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    border: none;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer p{
+justify-content: center;
+text-align: center;
+padding-top: 13px;
+}

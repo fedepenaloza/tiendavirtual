@@ -1,0 +1,6 @@
+.cart-box{
+    display: flex;
+}
+.cart-box p {
+text-decoration: none;
+}
